@@ -1,0 +1,8 @@
+SalesAnalytics/bin/
+SalesAnalytics/obj/
+*.bin
+SalesAnalytics.API/bin/
+SalesAnalytics.Application/obj/
+bin
+obj
+.vs
