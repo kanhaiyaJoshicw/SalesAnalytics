@@ -20,7 +20,6 @@ namespace SalesAnalytics.API.Controllers
             _logger = logger;   
         }
         [HttpGet("{id}")]
-        [Authorize]
         public async Task<IActionResult> GetSaleRecordById(int id)
         {
            
